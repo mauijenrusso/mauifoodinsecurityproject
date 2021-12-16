@@ -7,4 +7,4 @@ There is a lack of data when it comes to looking into agricultural data. The amo
 
 I did a bar graph of the amount of food produced, a 2 year moving average, and exponential smoothing graphs on amount of food produced
 
-
+The data was obtained https://opendata.hawaii.gov/
